@@ -6,8 +6,8 @@
 
 ## 🎯 競賽成果交付快速連結 (Quick Links & Deliverables)
 
-- 🌐 **Live Demo 線上展示網址（AWS 正式部署）**：[https://dl0s1ajl0os3y.cloudfront.net](https://dl0s1ajl0os3y.cloudfront.net)（僅開放白名單 IP，見下方 AWS 架構章節）
-- 💻 **GitHub 完整原始碼庫**：[https://github.com/LywMD/smart-watchdog](https://github.com/LywMD/smart-watchdog)
+- 🌐 **Live Demo 線上展示網址（Vercel 部署）**：[https://smart-watchdog-web.vercel.app/](https://smart-watchdog-web.vercel.app/)
+- 💻 **GitHub 完整原始碼庫**：[https://github.com/oscarlin9398-debug/smart-watchdog-web](https://github.com/oscarlin9398-debug/smart-watchdog-web)
 
 ---
 
